@@ -14,6 +14,8 @@ An assets for **the gethere project**.
 
 This repo serves as a place for an assets (logos, icons, etc.) used in **the gethere project**.
 
+More information about **the gethere project** is available in the [gethere server](https://github.com/krystejj/gethere-server) repo.
+
 ## 📖 Project Management
 
 All notable changes to this project will be documented in the [changelog file](CHANGELOG.md). The format of that file is based on [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.1.0/).
