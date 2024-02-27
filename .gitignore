@@ -1,3 +1,7 @@
+# Exported Files
+*.png
+!/.github/assets/*.png
+
 # OS Files
 .DS_Store
 Thumbs.db
