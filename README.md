@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/klark-logo-700x160.png" alt="gethere logo" />
+  <img src="./.github/assets/gethere-logo-700x160.png" alt="gethere logo" />
 </p>
 
 # gethere Assets
