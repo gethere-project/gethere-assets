@@ -1,14 +1,15 @@
 ---
 name: Issue Report
 about: File an issue report
-title: ''
+title: ""
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 ### Issue Description and Expectations
+
 **This is needed.**
 
 ### Screenshots
-*Not applicable.*
+
+_Not applicable._

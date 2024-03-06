@@ -8,4 +8,4 @@ The format is based on [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.
 
 ### Added
 
-- gethere logo.
+- gethere branding.

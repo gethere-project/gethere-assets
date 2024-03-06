@@ -1,11 +1,11 @@
 ---
 name: An Idea
 about: Suggest an idea
-title: ''
+title: ""
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 ### Idea Description
+
 **This is needed.**

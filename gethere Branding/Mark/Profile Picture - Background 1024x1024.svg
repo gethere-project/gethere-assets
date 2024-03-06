@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93332 270.93334"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Profile Picture - Background 1024x1024.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#0a0a0a00"
+     inkscape:zoom="0.27118408"
+     inkscape:cx="566.03618"
+     inkscape:cy="473.84787"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient8"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d31828;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#1a92e5;stop-opacity:1;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="linearGradient10"
+       x1="22.123095"
+       y1="112.48001"
+       x2="110.42135"
+       y2="19.552492"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8519296,0,0,1.9333331,12.969228,7.5847248)"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0a0a0a;stroke-width:0.264583;fill-opacity:1"
+       id="rect2"
+       width="270.93332"
+       height="270.93332"
+       x="0"
+       y="0"
+       ry="3.5249581e-16"
+       inkscape:label="Background" />
+    <path
+       id="rect1"
+       style="fill:url(#linearGradient10);stroke-width:0.491396"
+       d="m 89.477346,58.737497 c -13.203861,0 -23.834226,10.708243 -23.834226,24.008833 v 105.44066 c 0,13.30059 10.630365,24.00884 23.834226,24.00884 H 130.38858 V 58.737497 Z m 51.067384,0 V 212.19583 h 40.91123 c 13.20386,0 23.83425,-10.70825 23.83425,-24.00884 V 82.74633 c 0,-13.30059 -10.63039,-24.008833 -23.83425,-24.008833 z m -54.89677,11.25361 h 24.98968 c 5.0344,0 9.08698,4.082267 9.08698,9.153549 v 50.749154 c 0,5.07129 -4.05258,9.15354 -9.08698,9.15354 H 85.64796 c -5.0344,0 -9.08698,-4.08225 -9.08698,-9.15354 V 79.144656 c 0,-5.071282 4.05258,-9.153549 9.08698,-9.153549 z m 74.64771,0 h 24.98969 c 5.0344,0 9.08697,4.082261 9.08697,9.153549 v 50.749154 c 0,5.07129 -4.05257,9.15354 -9.08697,9.15354 h -24.98969 c -5.03441,0 -9.08697,-4.08225 -9.08697,-9.15354 V 79.144656 c 0,-5.071288 4.05256,-9.153549 9.08697,-9.153549 z"
+       inkscape:label="Mark" />
+  </g>
+</svg>
